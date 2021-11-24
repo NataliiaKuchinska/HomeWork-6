@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork-6", "HomeWork-6.csproj", "{D5874683-C151-4E03-80D1-8C9BBE77A19C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{55B1285C-C276-4542-9D51-1814B2E5FE34} = {55B1285C-C276-4542-9D51-1814B2E5FE34}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDimentionalArrayLib", "..\TwoDimentionalArrayLib\TwoDimentionalArrayLib.csproj", "{55B1285C-C276-4542-9D51-1814B2E5FE34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5874683-C151-4E03-80D1-8C9BBE77A19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5874683-C151-4E03-80D1-8C9BBE77A19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5874683-C151-4E03-80D1-8C9BBE77A19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5874683-C151-4E03-80D1-8C9BBE77A19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B1285C-C276-4542-9D51-1814B2E5FE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B1285C-C276-4542-9D51-1814B2E5FE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B1285C-C276-4542-9D51-1814B2E5FE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B1285C-C276-4542-9D51-1814B2E5FE34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DB0521-5444-46E7-A5C0-5453DA09131C}
+	EndGlobalSection
+EndGlobal
